@@ -4,18 +4,18 @@ This repository contains an animated login form created using HTML and CSS. The 
 
 
 # Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube]())
+click on the link to see :- ([Open in Youtube](https://youtu.be/aAG3cZuV-ag))
 
 # Screenshot
 Here we have project screenshot :
 
 
 Login Page:
-![screenshot](pinklogin.png)
+![screenshot](animelogin.png)
 
 
 Raw Image:
-![screenshot](chasing-dust-4k-vx-3840x2160.jpg)
+![screenshot](anime-original-pink-pg.jpg)
 
 
 # Features:
